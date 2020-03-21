@@ -1,2 +1,2 @@
-# kubernetes
-Kubernetes Ecosystem and Projects
+# Kubernetes
+Kubernetes Ecosystem and Projects to Track
